@@ -29,6 +29,8 @@ Meta Ad Performance Dashboard analyzes Facebook and Instagram campaign performan
 - Total Budget
 - average Budget per Campaign
 
+Dashboard Glance:
+![Meta Ad Dashboard](https://raw.githubusercontent.com/Jai-Kumar-Agrawal/Meta-Ad-Dashboard/main/Meta%20ad%20dashboard.png)
 
 Business Insights Generated
 
